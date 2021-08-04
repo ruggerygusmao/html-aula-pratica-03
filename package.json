@@ -1,0 +1,19 @@
+{
+  "name": "html-aula-pratica-03",
+  "version": "1.0.0",
+  "description": "Listas de Exercicios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruggerygusmao/html-aula-pratica-03.git"
+  },
+  "author": "Ruggery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruggerygusmao/html-aula-pratica-03/issues"
+  },
+  "homepage": "https://github.com/ruggerygusmao/html-aula-pratica-03#readme"
+}
