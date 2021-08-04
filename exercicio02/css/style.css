@@ -1,0 +1,26 @@
+body{
+    background-color: gray;
+    color: honeydew;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+header{
+    text-align: center;
+}
+
+img{
+    border-radius: 10px;
+}
+a{
+    text-decoration: none;
+    color: honeydew;
+}
+a:hover {
+    color: blue;
+}
